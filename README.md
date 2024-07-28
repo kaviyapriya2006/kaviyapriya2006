@@ -13,7 +13,7 @@ I’m a budding web developer
 - Long-Term: Launch a startup and unleash my creativity in the tech world-because why not, right?
 
 ## About Me
-I'm interested in entrepreneurship, self-improvement. Enjoy listening to podcasts, reading books, programming. Also I like listenig to people and learning from their experiences.
+I'm interested in **entrepreneurship**, **self-improvement**. Enjoy listening to podcasts, reading books, programming. Also I like listenig to people and learning from their experiences.
 I also love connecting with like-minded individuals who share my passion for technology, stoicism and self-growth.
 
 ## Books I've Actually finished
