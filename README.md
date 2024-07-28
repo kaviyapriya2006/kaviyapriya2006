@@ -1,8 +1,8 @@
-# Hi, I’m Kaviya priya 👋
+# Hi, I’m Kaviya priya 
   
 I’m a budding web developer
 
-## 🌱 What I'm Learning
+##  What I'm Learning
 - I'm into full stack development.
 - Exploring JavaScript frameworks like React and Node.js.
 - Backend development.
