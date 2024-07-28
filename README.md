@@ -23,7 +23,7 @@ I also love connecting with like-minded individuals who share my passion for tec
 - The Subtle Art of Not Giving a F*ck (learning the fine art of not sweating the small stuff)
 
 ## 📫 How to reach me 
--
+-I will update soon.
 
 ## Facts about me
 - Hardships are my personal trainers--no pain, no gain!
